@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 17)
 find_package(Curses REQUIRED)
 include_directories(${CURSES_INCLUDE_DIR})
 
-include_directories(src/hdrs)
+include_directories(inc)
 
 add_executable(ncui
                 src/main.cpp

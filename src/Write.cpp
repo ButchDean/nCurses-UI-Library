@@ -6,7 +6,7 @@
 // Author:      Joseph Lyons
 //--------------------------------------------------------------------------------------------------
 
-#include "Write.hpp"
+#include <Write.hpp>
 
 //--------------------------------------------------------------------------------------------------
 // Public: Calls the write_definition that the derived class must implement

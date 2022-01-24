@@ -16,7 +16,7 @@
 //--------------------------------------------------------------------------------------------------
 
 #include <iostream>
-#include "Window.hpp"
+#include <Window.hpp>
 
 //--------------------------------------------------------------------------------------------------
 // Private: Write definition provides the required definition for the private virtual pure function
