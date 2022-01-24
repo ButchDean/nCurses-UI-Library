@@ -6,3 +6,4 @@ nCurses_UI_Library
 .vscode
 cmake-build-*
 .idea
+build
