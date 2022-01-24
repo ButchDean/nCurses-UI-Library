@@ -4,3 +4,5 @@ makefile
 *.o
 nCurses_UI_Library
 .vscode
+cmake-build-*
+.idea
